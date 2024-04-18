@@ -29,7 +29,9 @@
 
 ## OUTPUT
 
-![alt text](image.png)
-![alt text](image-1.png)
+<img width="853" alt="image" src="https://github.com/mrmdsuhail/Agri_Ex01/assets/165985737/bc65cd38-56e6-423e-9ad9-683cac060dd8">
+
+<img width="853" alt="image-1" src="https://github.com/mrmdsuhail/Agri_Ex01/assets/165985737/8ec5fa6b-b23a-4ed2-b872-7b17dff652c4">
+
 ## RESULT
   The basic commands in networking are executed successfully.
